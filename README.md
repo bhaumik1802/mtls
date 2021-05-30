@@ -1,3 +1,8 @@
+# Convert PFX to JKS
+
+https://dev.to/gochev/convert-pfx-certificate-to-jks-p12-crt-cbh
+
+
 # mtls
 
 ## How to generate certificates for mTLS:
